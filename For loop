@@ -1,0 +1,5 @@
+let names = ["Yogesh", "Alex", "Brian", "Jack"]
+for name in names {
+    print("Hello, \(name)!")
+}
+// Hello, Yogesh!
