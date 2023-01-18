@@ -1,0 +1,14 @@
+Let grade = C
+
+Switch grade{
+Case A:
+Print ("Excellent ") 
+Case B:
+Print(" Good") 
+Case C:
+Print("Average") 
+Case D:
+Print("Fail") 
+Default :
+Print("Error") 
+}
