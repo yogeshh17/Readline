@@ -1,0 +1,7 @@
+Let num = 5
+if(num > 0) {
+ Print("Number is greater than 0") 
+}
+else{
+  Print("Number is smaller than 0") 
+}
